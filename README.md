@@ -1,6 +1,6 @@
-# Q2 Calculator Web App
+Calculator Web App
 
-This project contains a simple calculator frontend and backend for the COE558 HW4 Q2 requirement.
+This project contains a simple calculator frontend and backend.
 
 ## Project Structure
 
